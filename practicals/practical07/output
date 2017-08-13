@@ -1,0 +1,117 @@
+
+Output 1++++
+
+francisco@francisco-Oryx-Pro:~/ComputerScienceCourses/cs111s2016-quezadaf/practicals/practical07$ java GuessingGame 
+++++++++Guessing Game++++++++
+Francisco Quezada Fri Apr 01 23:29:34 EDT 2016
+Our random generator has created a number between 1 and 100!
+Your goal is to guess the number while I provide you with hints
+
+What is your 1 guess?
+38
+Too High
+
+What is your 2 guess?
+7
+Too Low
+
+What is your 3 guess?
+19
+Too Low
+
+What is your 4 guess?
+25
+Too Low
+
+What is your 5 guess?
+32
+Too High
+
+What is your 6 guess?
+30
+Too Low
+
+What is your 7 guess?
+31
+You got it!
+It took you 7 tries, good job
+
+
+Output 2++++
+
+francisco@francisco-Oryx-Pro:~/ComputerScienceCourses/cs111s2016-quezadaf/practicals/practical07$ java GuessingGame 
+++++++++Guessing Game++++++++
+Francisco Quezada Fri Apr 01 23:31:05 EDT 2016
+Our random generator has created a number between 1 and 100!
+Your goal is to guess the number while I provide you with hints
+
+What is your 1 guess?
+89
+Too High
+
+What is your 2 guess?
+65
+Too Low
+
+What is your 3 guess?
+72
+Too Low
+
+What is your 4 guess?
+79
+Too High
+
+What is your 5 guess?
+76
+Too High
+
+What is your 6 guess?
+74
+Too High
+
+What is your 7 guess?
+73
+You got it!
+It took you 7 tries, good job
+
+Output 3++++
+
+francisco@francisco-Oryx-Pro:~/ComputerScienceCourses/cs111s2016-quezadaf/practicals/practical07$ java GuessingGame 
+++++++++Guessing Game++++++++
+Francisco Quezada Fri Apr 01 23:32:22 EDT 2016
+Our random generator has created a number between 1 and 100!
+Your goal is to guess the number while I provide you with hints
+
+What is your 1 guess?
+38
+Too Low
+
+What is your 2 guess?
+65
+Too Low
+
+What is your 3 guess?
+80
+Too Low
+
+What is your 4 guess?
+90
+Too Low
+
+What is your 5 guess?
+95
+Too Low
+
+What is your 6 guess?
+98
+Too High
+
+What is your 7 guess?
+96
+Too Low
+
+What is your 8 guess?
+97
+You got it!
+It took you 8 tries, good job
+francisco@francisco-Oryx-Pro:~

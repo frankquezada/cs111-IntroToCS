@@ -1,0 +1,10 @@
+Reflection
+
+In this assignment I had one big issue and that is the public void and public
+static void statements. I am still a little confused of how we know which one
+to use. I read some content from the book that talks about this and it did help
+in improving my understanding. I made minor syntax errors. I have used if/else 
+statements before in Fortran and Python so I have a good sense of how they work.
+I think what helps out the most is thinking through and planning out how you want your
+program to look and function before beggining to write it; this helps me be more 
+efficient.

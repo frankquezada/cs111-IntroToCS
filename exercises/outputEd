@@ -1,0 +1,32 @@
+Compiled correctly:
+quezadaf@x2go:~/cs111S2016/cs111S2016-quezadaf/inclassex$ javac Ed.java
+
+Ouput 1: 
+quezadaf@x2go:~/cs111S2016/cs111S2016-quezadaf/inclassex$ java Ed 
+The random character from: GTCAA is: A
+GTCA
+
+Output 2:
+quezadaf@x2go:~/cs111S2016/cs111S2016-quezadaf/inclassex$ java Ed 
+The random character from: GTCAA is: G
+TCAA
+
+Output 3:
+quezadaf@x2go:~/cs111S2016/cs111S2016-quezadaf/inclassex$ java Ed 
+The random character from: GTCAA is: A
+GTCA
+
+Output 4:
+quezadaf@x2go:~/cs111S2016/cs111S2016-quezadaf/inclassex$ java Ed 
+The random character from: GTCAA is: A
+GTCA
+
+Output 5:
+quezadaf@x2go:~/cs111S2016/cs111S2016-quezadaf/inclassex$ java Ed 
+The random character from: GTCAA is: T
+GCAA
+
+Output 6:
+quezadaf@x2go:~/cs111S2016/cs111S2016-quezadaf/inclassex$ java Ed 
+The random character from: GTCAA is: T
+GCAA

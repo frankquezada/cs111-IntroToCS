@@ -1,0 +1,26 @@
+//*******************************
+// Honor Code: The work I am submitting is a result of my own thinking and efforts.
+// Francisco Quezada
+// needed for printing today's date
+
+public class Ed // replace # with file name
+{
+	//-----------------------
+	// main method: program execution begins here
+	//-----------------------
+	public static void main(String [] args)
+	{
+	String c;
+	char l ;
+
+	c = "hello";
+	l = c.charAt(3);
+
+	String lo = c.substring(0,l);
+	String ld = c.substring(l,4);
+
+	System.out.println(lo + ld);
+
+}
+}
+

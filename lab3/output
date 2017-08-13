@@ -1,0 +1,158 @@
+Output 1
+
+quezadaf@aldenv129:~/cs111S2016/cs111S2016-quezadaf/lab3$ java Lab3 
+Francisco Quezada
+Lab 3
+Wed Feb 10 14:30:19 EST 2016
+
+     Mckinley's Expensive Food	
++++++++++++++++++++++++++++++++++++
+Hello, what is your full name?
+Frank
+Thank you Frank
+Frank please enter the amount listed on your bill:
+131.56
+Thank you Frank
+The amount you entered is: $131.56
+
+ Tip
++++++++++++++++++++++++++++++++++++
+As always, Frank we appreciate your business
+Frank how much would you like to tip your waiter?
+Note: Please put a value between 0% and 100%
+15
+Thank you for your $19.73 tip
+Your total is : $151.29
+
+ Summary of Bill
++++++++++++++++++++++++++++++++++++
+Your subtotal (before tips) is: $131.56
+Your tip is :15.0% or $:19.73 of the bill
+Frank your total is : $151.29
+
+ Bill Share
++++++++++++++++++++++++++++++++++++
+How many people will split the bill Frank?
+2
+The bill for each person is: $75.65
+Thank you Frank, hope you have an awesome day!
+
+ /__  ___/                                           
+   / /  / __      ___       __     / ___      ___    
+  / /  //   ) ) //   ) ) //   ) ) //\ \     ((   ) ) 
+ / /  //   / / //   / / //   / / //  \ \     \ \     
+/ /  //   / / ((___( ( //   / / //    \ \ //   ) )
+
+source of ASCII Art:
+http://www.retrojunkie.com/asciiart/holidays/thankyou.htm
+
+
+
+
+
+
+
+Output 2
+
+quezadaf@aldenv129:~/cs111S2016/cs111S2016-quezadaf/lab3$ java Lab3 
+Francisco Quezada
+Lab 3
+Wed Feb 10 14:31:06 EST 2016
+
+     Mckinley's Expensive Food	
++++++++++++++++++++++++++++++++++++
+Hello, what is your full name?
+Sheldon Cooper
+Thank you Sheldon Cooper
+Sheldon Cooper please enter the amount listed on your bill:
+241.89
+Thank you Sheldon Cooper
+The amount you entered is: $241.89
+
+ Tip
++++++++++++++++++++++++++++++++++++
+As always, Sheldon Cooper we appreciate your business
+Sheldon Cooper how much would you like to tip your waiter?
+Note: Please put a value between 0% and 100%
+25
+Thank you for your $60.47 tip
+Your total is : $302.36
+
+ Summary of Bill
++++++++++++++++++++++++++++++++++++
+Your subtotal (before tips) is: $241.89
+Your tip is :25.0% or $:60.47 of the bill
+Sheldon Cooper your total is : $302.36
+
+ Bill Share
++++++++++++++++++++++++++++++++++++
+How many people will split the bill Sheldon Cooper?
+6
+The bill for each person is: $50.39
+Thank you Sheldon Cooper, hope you have an awesome day!
+
+ /__  ___/                                           
+   / /  / __      ___       __     / ___      ___    
+  / /  //   ) ) //   ) ) //   ) ) //\ \     ((   ) ) 
+ / /  //   / / //   / / //   / / //  \ \     \ \     
+/ /  //   / / ((___( ( //   / / //    \ \ //   ) )
+
+source of ASCII Art:
+http://www.retrojunkie.com/asciiart/holidays/thankyou.htm
+
+
+
+
+
+
+
+
+
+Output 3
+
+quezadaf@aldenv129:~/cs111S2016/cs111S2016-quezadaf/lab3$ java Lab3 
+Francisco Quezada
+Lab 3
+Wed Feb 10 14:31:46 EST 2016
+
+     Mckinley's Expensive Food	
++++++++++++++++++++++++++++++++++++
+Hello, what is your full name?
+Nikola Tesla
+Thank you Nikola Tesla
+Nikola Tesla please enter the amount listed on your bill:
+1000.49
+Thank you Nikola Tesla
+The amount you entered is: $1000.49
+
+ Tip
++++++++++++++++++++++++++++++++++++
+As always, Nikola Tesla we appreciate your business
+Nikola Tesla how much would you like to tip your waiter?
+Note: Please put a value between 0% and 100%
+45
+Thank you for your $450.22 tip
+Your total is : $1450.71
+
+ Summary of Bill
++++++++++++++++++++++++++++++++++++
+Your subtotal (before tips) is: $1000.49
+Your tip is :45.0% or $:450.22 of the bill
+Nikola Tesla your total is : $1450.71
+
+ Bill Share
++++++++++++++++++++++++++++++++++++
+How many people will split the bill Nikola Tesla?
+3
+The bill for each person is: $483.57
+Thank you Nikola Tesla, hope you have an awesome day!
+
+ /__  ___/                                           
+   / /  / __      ___       __     / ___      ___    
+  / /  //   ) ) //   ) ) //   ) ) //\ \     ((   ) ) 
+ / /  //   / / //   / / //   / / //  \ \     \ \     
+/ /  //   / / ((___( ( //   / / //    \ \ //   ) )
+
+source of ASCII Art:
+http://www.retrojunkie.com/asciiart/holidays/thankyou.htm
+

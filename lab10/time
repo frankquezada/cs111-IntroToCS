@@ -1,0 +1,19 @@
+Change versus Time
+
+change	time
+32f	1688
+64f	1668
+128f	2120
+256f	2134
+512f	1666
+
+There is no change above because that only changes the color in the Mandlebrot
+
+change		time
+max10		285
+max100		531
+max1000		1693
+max10000	17998
+
+There is a change above because that adds more pixels and more figures to the
+Mandlebrot.

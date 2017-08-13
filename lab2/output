@@ -1,0 +1,23 @@
+Francisco Quezada
+Lab 2
+Wed Jan 27 16:05:43 EST 2016
+
+
+Hello there!
+Today we will calculate package end to end delays
+over a network.
+
+The following are the given parameters:
+
+Distance package is sent = 1000.0 meters
+The Speed of light is = 3.0E8 meters/second
+The packet size is = 12000.0 bits
+The bandwidth is = 1.0E8 bits/second
+
+The end to end delay time is = 1.2333333333333334E-4 seconds
+
+You can change the distance in my code to see how
+distance affects delay times.
+
+Author: Francisco Quezada
+

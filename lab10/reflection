@@ -1,0 +1,5 @@
+This code uses a for loop to create a Mandlebrot set image. It changes
+the max values to add more pixels, thus resolution. It changes the HSV or
+Hue, Saturation, Values to add more color. When changing the max values the
+time in millisecs goes liek 1^n where n is the max value. When changing
+the HSV values time does not change at all.

@@ -1,0 +1,33 @@
+Do you recognize the names of any of the gvim plugins as they are being installed?
+Yes
+
+What do they do?
+Change color scheme, indetation, word guessing and spell checking, etc.
+
+5 ways that it is different from standard GVim:
+Background Color
+Java Keyword guess
+Closes paranthesis, brackets, quotes, etc.
+Have line numbers on left column
+Am able to delete lines faster using commands like "d", "dd", etc.
+
+How does your chosen plugin work and what features does it provide?
+It list each line, the color scheme has a dark background, and in Java (and I assume other languages like Python) it tries to guess keywords.
+It also shows how many spaces are in indentations (visually) and it allows you to access your directory from the GVim window.
+
+Do you plan to use this plugin on a regular basis?
+Yes
+
+Why or why not?
+Time efficient, helpful visually, and assist when programming (e.g. checks for spelling errors)
+
+Knowing these facts, what do you think that "gg=G" comman does?
+Go to top of line and indent all the way to the bottom of the code.
+
+How do: "u", "d", "dd", "dip" allow you to manipulate your source code?
+u = undo
+d = deletes chosen
+dd = deletes current line
+dip = deletes paragraph
+
+

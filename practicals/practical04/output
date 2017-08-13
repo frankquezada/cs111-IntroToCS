@@ -1,0 +1,24 @@
+
+Output 1:
+
+quezadaf@aldenv154:~/cs111S2016/cs111S2016-quezadaf/practicals/practical04$ java DisplayDrawingCanvas
+Input the Red Value: 255
+Input the Green Value: 0
+Input the Blue Value: 0
+The RGB value is: (255,0,0)
+The Complementary RGB value is: (0,255,255)
+--
+Comment: RGB input was red and complementary was blue or cyan.
+
+Output 2:
+
+quezadaf@aldenv154:~/cs111S2016/cs111S2016-quezadaf/practicals/practical04$ ja DisplayDrawingCanvas
+Input the Red Value: 0
+Input the Green Value: 255
+Input the Blue Value: 0
+The RGB value is: (0,255,0)
+The Complementary RGB value is: (255,0,255)
+--
+Comment: RGB input was green and complementary was violet or pink.
+
+
